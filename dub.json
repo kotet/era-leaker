@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"kotet"
+	],
+	"copyright": "Copyright © 2019, kotet",
+	"description": "新元号を漏洩させます",
+	"license": "MIT",
+	"name": "era-leaker"
+}
